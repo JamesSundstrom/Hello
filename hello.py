@@ -1,4 +1,4 @@
-def hello(name="World"):
+def hello(name="pal"):
     print(f"Hello, {name}!")
 
 hello()
